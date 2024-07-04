@@ -3,7 +3,6 @@ This repository contains the source code for the frontend of a booking applicati
 
 ## Technologies Used
 - **Frontend**: React.js
-- **State Management**: Redux
 - **Routing**: React Router
 - **Styling**: CSS, Bootstrap
 
